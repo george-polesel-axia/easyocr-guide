@@ -1,5 +1,7 @@
 # EasyOCR API
 
+[![CI](https://github.com/george-polesel-axia/easyocr-guide/actions/workflows/ci.yml/badge.svg)](https://github.com/george-polesel-axia/easyocr-guide/actions/workflows/ci.yml)
+
 A minimal REST API for neural text recognition with
 [EasyOCR](https://github.com/JaidedAI/EasyOCR), PyTorch, and optional GPU
 execution.
